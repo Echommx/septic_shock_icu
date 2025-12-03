@@ -1,5 +1,5 @@
 # septic_shock_icu
-# Septic Shock Subphenotypes – Peer-review Code
+# Heterogeneous Corticosteroid Effects in Septic-shock Progression Subphenotypes: A Multicenter Deep-Learning and Target Trial Emulation Study
 
 This repository contains the core code used to:
 1. Learn low-dimensional representations of septic-shock trajectories from longitudinal ICU data.
